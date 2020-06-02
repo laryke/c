@@ -3,7 +3,7 @@
     max-width: 100%;
     background-repeat: no-repeat;
     background: -moz-linear-gradient(DarkBlue 0%, LightBlue 36%, White 50%);
-    background: linear-gradient(DarkBlue 0%, LightBlue 36%, White 50%);
+    background:linear-gradient(DarkBlue 0%, LightBlue 36%, White 50%);
     overflow: hidden;
 }
 div.background {
